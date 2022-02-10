@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning automation bascis
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me dont hmu 
+- 📫 How to reach me: **dont hmu**
 
 <!---
 fionacampbell2022/fionacampbell2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
